@@ -152,4 +152,4 @@
 	/* ---------------------------------------------------
     # Custom Classes
 	----------------------------------------------------- */
-	require get_template_directory() . '/lib/shows/custom-post-type.php';
+	require_once locate_template( 'lib/class-breadcrumbs.php' );
