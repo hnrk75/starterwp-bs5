@@ -152,4 +152,5 @@
 	/* ---------------------------------------------------
     # Custom Classes
 	----------------------------------------------------- */
+	// Add breadcrumbs function
 	require_once locate_template( 'lib/class-breadcrumbs.php' );

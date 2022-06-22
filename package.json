@@ -26,6 +26,7 @@
     "sass": "^1.52.3"
   },
   "dependencies": {
+    "@wordpress/plugins": "^4.9.0",
     "bootstrap-icons": "^1.8.3",
     "fullpage.js": "^3.1.2",
     "jquery": "^3.6.0",
